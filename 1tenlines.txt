@@ -1,2 +1,4 @@
 Something New in the Text
 Hello Chat.
+
+This is a new test line.
